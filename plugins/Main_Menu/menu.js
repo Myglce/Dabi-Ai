@@ -27,7 +27,7 @@ module.exports = {
         externalAdReply: {
           title: botName,
           body: 'Silakan pilih menu yang tersedia',
-          thumbnailUrl: thumbnail,
+          thumbnailUrl: 'https://files.catbox.moe/wua74d.jpg',
           sourceUrl: 'https://github.com/maoudabi0',
           mediaUrl: 'https://wa.me/6285725892962?text=Beli+Kak',
           mediaType: 1,
